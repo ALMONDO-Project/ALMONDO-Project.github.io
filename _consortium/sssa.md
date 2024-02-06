@@ -6,13 +6,6 @@ img: "assets/img/portfolio/sssa.jpg"
 
 ![image]({{ page.img | relative_url }}){:style="float: center; display: block; margin: 0 auto; width:400px;height:auto;"}
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
-adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![Book logo](/assets/img/consortium/Daniele_Giachini.jpg){:style="float: left;margin-left: 7px;margin-top: 7px; width:500px;height:auto;"}
 
+**Daniele Giachini** is Assistant Professor at the Institute of Economics at Sant'Anna School for Advanced Studies, Pisa, Italy. Is research interests focus on Financial Economics, Mathematical Economics, Models of Financial Markets with Heterogeneous Agents, Market Selection, Statistical Learning, Applications of Information Theory, Statistical Analysis of Simulated Agent-Based Models.

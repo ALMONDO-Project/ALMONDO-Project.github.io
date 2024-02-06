@@ -6,13 +6,6 @@ img: "assets/img/portfolio/uniparthenope.png"
 
 ![image]({{ page.img | relative_url }}){:style="float: center; display: block; margin: 0 auto; width:400px;height:auto;"}
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
-adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![Book logo](/assets/img/consortium/Pasquale Marcello Falcone.jpeg){:style=" float: left;margin-left: 7px;margin-top: 7px; width:400px;height:auto;"}
 
+**Pasquale Marcello Falcone** is Associate Professor of Economic Policy at the University of Naples "Parthenope". His research interests include Environmental Economics and Sustainable Development. Particular emphasis is placed on the mechanisms that regulate the interaction of sustainability transitions with socio-economic and institutional aspects, exploring the role of public policies. He has published his research in prestigious journals of economics and environmental policy and is a member of the Editorial Committee of the scientific journal Sustainable Production and Consumption (class A-AREA 13).

@@ -6,13 +6,5 @@ img: "assets/img/portfolio/unipi.svg"
 
 ![image]({{ page.img | relative_url }}){:style="float: center; display: block; margin: 0 auto; width:400px;height:auto;"}
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
-adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-
+![Book logo](/assets/img/consortium/Alina.jpeg){:style="float: left;margin-left: 7px;margin-top: 7px; width:500px;height:auto;"}
+Alina Sîrbu is Associate Professor of Computer Science at University of Pisa, and member of the Knowledge Discovery and Data Mining laboratory. Her research interests are Complex Systems Modelling, Data Science and Machine Learning, applied to a variety of systems ranging from technical (HPC systems, data centres), social (opinion dynamics, social choice theory, behaviour change) to biological (gene regulatory networks). Her work has appeared in BMC Bioinformatics, PLOS One, Journal of Statistical Physics, Nature Methods, Cluster Computing, Quality and Quantity, Advances in Complex Systems and other international journals and conferences. 
