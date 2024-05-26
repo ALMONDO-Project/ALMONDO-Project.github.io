@@ -14,3 +14,7 @@ img: "assets/img/portfolio/unicam.png"
 ![Luca Padovani](/assets/img/consortium/Luca_Padovani.jpg){:style=" float: left;margin-left: 7px;margin-top: 7px; width:375px;height:auto;"}
 
 **Luca Padovani** is an Associate Professor of Computer Science at the Computer Science Division of the School of Science and Technology of the University of Camerino. His research interests span both theory and practice in the areas of Programming Languages, Type Systems, Concurrency Theory, Distributed Computing and Formal Verification.
+
+![Ivan Compagnucci](/assets/img/consortium/Compagnucci-img.jpg){:style=" float: left;margin-left: 7px;margin-top: 7px; width:375px;height:auto;"}
+
+**Ivan Compagnucci**  is a Ph.D. candidate in Computer Science at the International School of Advanced Studies of the University of Camerino. He obtained his Bachelor's and Master's degrees in Computer Science at the University of Camerino. His research interests refer to the area of Business Process Management, especially for what concerns the modeling and the enactment of business processes enhanced with Internet of Things and Digital Twin.
