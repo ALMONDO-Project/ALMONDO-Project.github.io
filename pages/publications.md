@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 feature-img: "assets/img/pexels/book-glass.jpeg"
 excluded: true
-position: 3
+position: 4
 tags: [Page]
 ---
 
