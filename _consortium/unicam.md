@@ -3,18 +3,26 @@ layout: page
 title: University of Camerino Research Unit
 img: "assets/img/portfolio/unicam.png"
 ---
-![image]({{ page.img | relative_url }}){:style="float: center; display: block; margin: 0 auto; width:400px;height:auto;"}
+![image]({{ page.img | relative_url }}){:style="display: block; margin: 0 auto; width:400px;height:auto;"}
 
-![Fabrizio Fornari](/assets/img/consortium/Fabrizio.jpeg){:style=" float: left;margin-left: 7px;margin-top: 7px; width:375px;height:auto;"}
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="/assets/img/consortium/Fabrizio.jpeg" alt="Fabrizio Fornari" style="margin-right: 20px; width: 375px; height: auto;">
+    <div>
+        Fabrizio Fornari is a Research Fellow (RTD-A) in Computer Science at the University of Camerino, Italy, since 2022. 
+        Since 2017, he is member of the PROcesses and Services Laboratory (PROS Lab) within he conducts his research activities. His research interests and teaching activities revolve around a mix of topics ranging from Formal Methods, Business Process Management, Software Engineering, Internet of Things, Digital Twins, to Applied Game Design.
+    </div>
+</div>
 
-**Fabrizio Fornari** is a Research Fellow (RTD-A) in Computer Science at the University of Camerino, Italy, since 2022. 
-<!-- He obtained his PhD (2018) and M.Sc. (2013) in Computer Science at the University of Camerino. -->
- Since 2017, he is member of the PROcesses and Services Laboratory (PROS Lab) within he conducts his research activities. His research interests and teaching activities revolve around a mix of topics ranging from Formal Methods, Business Process Management, Software Engineering, Internet of Things, Digital Twins, to Applied Game Design.
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="/assets/img/consortium/Luca_Padovani.jpg" alt="Luca Padovani" style="margin-right: 20px; width: 375px; height: auto;">
+    <div>
+        **Luca Padovani** is an Associate Professor of Computer Science at the Computer Science Division of the School of Science and Technology of the University of Camerino. His research interests span both theory and practice in the areas of Programming Languages, Type Systems, Concurrency Theory, Distributed Computing and Formal Verification.
+    </div>
+</div>
 
-![Luca Padovani](/assets/img/consortium/Luca_Padovani.jpg){:style=" float: left;margin-left: 7px;margin-top: 7px; width:375px;height:auto;"}
-
-**Luca Padovani** is an Associate Professor of Computer Science at the Computer Science Division of the School of Science and Technology of the University of Camerino. His research interests span both theory and practice in the areas of Programming Languages, Type Systems, Concurrency Theory, Distributed Computing and Formal Verification.
-
-![Ivan Compagnucci](/assets/img/consortium/Compagnucci-img.jpg){:style=" float: left;margin-left: 7px;margin-top: 7px; width:375px;height:auto;"}
-
-**Ivan Compagnucci**  is a Ph.D. candidate in Computer Science at the International School of Advanced Studies of the University of Camerino. He obtained his Bachelor's and Master's degrees in Computer Science at the University of Camerino. His research interests refer to the area of Business Process Management, especially for what concerns the modeling and the enactment of business processes enhanced with Internet of Things and Digital Twin.
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <img src="/assets/img/consortium/Compagnucci-img.jpg" alt="Ivan Compagnucci" style="margin-right: 20px; width: 375px; height: auto;">
+    <div>
+        **Ivan Compagnucci** is a Ph.D. candidate in Computer Science at the International School of Advanced Studies of the University of Camerino. He obtained his Bachelor's and Master's degrees in Computer Science at the University of Camerino. His research interests refer to the area of Business Process Management, especially for what concerns the modeling and the enactment of business processes enhanced with Internet of Things and Digital Twin.
+    </div>
+</div>
