@@ -5,7 +5,7 @@ img: "assets/img/portfolio/unicam.png"
 ---
 ![image]({{ page.img | relative_url }}){:style="display: block; margin: 0 auto; width:400px;height:auto;"}
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Fabrizio.jpeg" alt="Fabrizio Fornari" style="margin-right: 20px; width: 375px; height: auto;">
     <div>
         Fabrizio Fornari is a Research Fellow (RTD-A) in Computer Science at the University of Camerino, Italy, since 2022. 
@@ -13,14 +13,14 @@ img: "assets/img/portfolio/unicam.png"
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
     <img src="/assets/img/consortium/Luca_Padovani.jpg" alt="Luca Padovani" style="margin-right: 20px; width: 375px; height: auto;">
     <div>
         **Luca Padovani** is an Associate Professor of Computer Science at the Computer Science Division of the School of Science and Technology of the University of Camerino. His research interests span both theory and practice in the areas of Programming Languages, Type Systems, Concurrency Theory, Distributed Computing and Formal Verification.
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
     <img src="/assets/img/consortium/Compagnucci-img.jpg" alt="Ivan Compagnucci" style="margin-right: 20px; width: 375px; height: auto;">
     <div>
         **Ivan Compagnucci** is a Ph.D. candidate in Computer Science at the International School of Advanced Studies of the University of Camerino. He obtained his Bachelor's and Master's degrees in Computer Science at the University of Camerino. His research interests refer to the area of Business Process Management, especially for what concerns the modeling and the enactment of business processes enhanced with Internet of Things and Digital Twin.
