@@ -21,7 +21,7 @@ img: "assets/img/portfolio/sssa.jpg"
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
-    <img src="/assets/img/consortium/Vandin-img.png" alt="Lilit Popoyan" style="width: 400px;">
+    <img src="/assets/img/consortium/Vandin-img.png" alt="Andrea Vandin" style="width: 400px;">
     <div>
         <a style="font-weight: bold; text-decoration: black">Andrea Vandin</a> is an Associate Professor in Computer Science within the Department of Excellence L'EMbeDS and the Institute of Economics at Sant'Anna School for Advanced Studies, Pisa, Italy, and an Adjunct Associate Professor at DTU Technical University of Denmark. His research interests focus on the interdisciplinary application of Computer Science, particularly in the modeling and analysis of complex dynamical systems using rigorous mathematical and statistical methods.
 </div>
