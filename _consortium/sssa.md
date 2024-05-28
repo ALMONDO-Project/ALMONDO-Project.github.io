@@ -19,3 +19,10 @@ img: "assets/img/portfolio/sssa.jpg"
         <a style="font-weight: bold; text-decoration: black">Lilit Popoyan</a> is a Lecturer in Business Analytics & Innovation with a strong emphasis on policy-relevant quantitative research analyzing a nexus between macroeconomic policy, financial regulations, financial stability, sustainable finance and climate change, production networks, and macroeconomic dynamics. Before joining Queen Mary, University of London, Lilit was an assistant professor in Economic Policy at the University of Naples "Parthenope". She is also an associate researcher at the Sant'Anna School of Advanced Studies (Pisa, Italy) and one of the founding members of the ABM4Policy research group.
     </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
+    <img src="/assets/img/consortium/Vandin-img.png" alt="Lilit Popoyan" style="width: 400px;">
+    <div>
+        <a style="font-weight: bold; text-decoration: black">Andrea Vandin</a> is an Associate Professor in Computer Science within the Department of Excellence L'EMbeDS and the Institute of Economics at Sant'Anna School for Advanced Studies, Pisa, Italy, and an Adjunct Associate Professor at DTU Technical University of Denmark. His research interests focus on the interdisciplinary application of Computer Science, particularly in the modeling and analysis of complex dynamical systems using rigorous mathematical and statistical methods.
+</div>
+</div>
