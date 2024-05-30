@@ -13,8 +13,6 @@ img: "assets/img/portfolio/uniparthenope.png"
     </div>
 </div>
 
-
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Bonasia-img.jpg" alt="Mariangela Bonasia" style="width: 400px; height: auto;">
     <div>
@@ -30,6 +28,6 @@ img: "assets/img/portfolio/uniparthenope.png"
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Errichiello-img.jpg" alt="Grazia Errichiello" style="width: 400px; height: auto;">
     <div>
-        <a style="font-weight: bold; text-decoration: black">Grazia Errichiello</a> is currently a research fellow at the University of Naples Parthenope on the ALMONDO project and is responsible for collecting data on climate lobbying. In June 2024 she will discuss her doctoral thesis, entitled: "Climate impacts on workers and firms: evidence from Italian employer-employee data". The study consists of an econometric analysis using the INPS dataset. It contains monthly panel data on Italian employees over a ten-year period. She spent a visiting period at the Sorbonne University and took part in multiple seminars and summer schools on climate and labor market issues.   
-    </div>
+        <a style="font-weight: bold; text-decoration: black">Grazia Errichiello</a> is currently a research fellow at the University of Naples Parthenope on the ALMONDO project and is responsible for collecting data on climate lobbying. In June 2024 she will discuss her doctoral thesis, entitled: "Climate impacts on workers and firms: evidence from Italian employer-employee data". The study consists of an econometric analysis using the INPS dataset. It contains monthly panel data on Italian employees over a ten-year period. She spent a visiting period at the Sorbonne University and took part in multiple seminars and summer schools on climate and labor market issues. </div>  </div>
 </div>
+  
