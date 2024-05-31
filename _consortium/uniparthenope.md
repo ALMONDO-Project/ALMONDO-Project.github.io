@@ -20,7 +20,6 @@ img: "assets/img/portfolio/uniparthenope.png"
     </div>
 </div>
 
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Capurro-img.jpg" alt="Rosita Capurro" style="width: 400px; height: auto;">
     <div>
