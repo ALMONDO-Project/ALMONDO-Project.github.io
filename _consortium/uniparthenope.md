@@ -16,7 +16,7 @@ img: "assets/img/portfolio/uniparthenope.png"
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Bonasia-img.jpg" alt="Mariangela Bonasia" style="width: 400px; height: auto;">
     <div>
-        <a style="font-weight: bold; text-decoration: black">Mariangela Bonasia</a>Mariangela Bonasia is Associate Professor of Economics at the Department of Business and Economics of University of Naples Parthenope. Her research interests focused mainly on welfare policies with studies on pension systems, efficiency of health systems, international and interregional migration policies and on happiness economics. She received a MSc in Economics and Finance (MEF) at University of Naples, Federico II and a PhD in Public Economics at University of Salerno. She was visiting professor at the  School of Economics - University College of Dublin.
+        <a style="font-weight: bold; text-decoration: black">Mariangela Bonasia</a> is Associate Professor of Economics at the Department of Business and Economics of University of Naples Parthenope. Her research interests focused mainly on welfare policies with studies on pension systems, efficiency of health systems, international and interregional migration policies and on happiness economics. She received a MSc in Economics and Finance (MEF) at University of Naples, Federico II and a PhD in Public Economics at University of Salerno. She was visiting professor at the  School of Economics - University College of Dublin.
     </div>
 </div>
 
@@ -24,7 +24,7 @@ img: "assets/img/portfolio/uniparthenope.png"
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Capurro-img.jpg" alt="Rosita Capurro" style="width: 400px; height: auto;">
     <div>
-        <a style="font-weight: bold; text-decoration: black">Rosita Capurro</a>is Assistant Professor in Strategy and Business Administration at the Department of Business and Economics of the University of Naples “Parthenope”.  She holds a PhD in “Governance, Management and Economics” from the University of Naples “Parthenope”, Italy. She is a member of SIDREA (Italian Association of Professors in Accounting and Management), AIDEA (Italian Academy of Management) and SISR (Italian Association of Accounting History). Her research focused on innovation and strategic management, corporate social responsibility and green management, smart technologies and digitalization processes.
+        <a style="font-weight: bold; text-decoration: black">Rosita Capurro</a> is Assistant Professor in Strategy and Business Administration at the Department of Business and Economics of the University of Naples “Parthenope”.  She holds a PhD in “Governance, Management and Economics” from the University of Naples “Parthenope”, Italy. She is a member of SIDREA (Italian Association of Professors in Accounting and Management), AIDEA (Italian Academy of Management) and SISR (Italian Association of Accounting History). Her research focused on innovation and strategic management, corporate social responsibility and green management, smart technologies and digitalization processes.
     </div>
 </div>
 
