@@ -2,10 +2,10 @@
 layout: post
 title: Report on Climate Lobbying and Opinions
 tags: [Page]
-categories: Report
+categories: Publications
 ---
 
-The Report on Climate Lobbying and Opinions is now completed and available to be downloaded.
+**Project Milestone 1** - The Report on Climate Lobbying and Opinions is now available to be downloaded.
  
 
 
