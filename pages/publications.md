@@ -8,4 +8,4 @@ position: 4
 tags: [Page]
 ---
 
-Here we will report a list of publications that will derive from ALMONDO-Project's activities.
+
