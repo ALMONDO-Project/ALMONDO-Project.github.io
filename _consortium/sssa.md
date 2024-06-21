@@ -25,4 +25,10 @@ img: "assets/img/portfolio/sssa.jpg"
     <div>
         <a style="font-weight: bold; text-decoration: black">Andrea Vandin</a> is an Associate Professor in Computer Science within the Department of Excellence L'EMbeDS and the Institute of Economics at Sant'Anna School for Advanced Studies, Pisa, Italy, and an Adjunct Associate Professor at DTU Technical University of Denmark. His research interests focus on the interdisciplinary application of Computer Science, particularly in the modeling and analysis of complex dynamical systems using rigorous mathematical and statistical methods.
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
+    <img src="/assets/img/consortium/Ciambezi-img.png" alt="Leonardo Ciambezi" style="width: 400px;" />
+    <div>
+        <a style="font-weight: bold; text-decoration: black">Leonardo Ciambezi</a> Leonardo Ciambezi is a PhD candidate in Economics at Université Côte d'Azur in Nice and research fellow at Scuola Superiore Sant'Anna, Pisa. His research interests revolve around computational economics, the business cycle and macroeconomic dynamics, both from the theoretical and empirical points of view.</div>
+</div>
 </div>
