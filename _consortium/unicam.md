@@ -15,6 +15,17 @@ img: "assets/img/portfolio/unicam.png"
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
+    <img src="/assets/img/consortium/Verdiana_DelRosso.png" alt="Verdiana Del Rosso" style="width: 400px;">
+    <div>
+        <a style="font-weight: bold; text-decoration: black">Verdiana Del Rosso</a> is  research fellow in Computer Science at the University of Camerino, currently working on the ALMONDO project to develop a user-friendly simulation tool. 
+        She earned her Master's degree in Mathematics from the same university and defended her PhD thesis in 2020, focusing on modeling and designing an optimal torque distribution strategy for two electric motors in an all-wheel-drive electric motorcycle in collaboration with Visionarprogetti. 
+        Since then, she has been researching mechanical anomaly detection systems for electric motors in household appliances, using vibrational signals and machine learning techniques.
+    </div>
+</div>
+
+## Previous collaborators
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
     <img src="/assets/img/consortium/Luca_Padovani.jpg" alt="Luca Padovani" style="width: 400px;">
     <div>
         <a style="font-weight: bold; text-decoration: black">Luca Padovani</a> is an Associate Professor of Computer Science at the Computer Science Division of the School of Science and Technology of the University of Camerino. His research interests span both theory and practice in the areas of Programming Languages, Type Systems, Concurrency Theory, Distributed Computing and Formal Verification.
@@ -28,9 +39,4 @@ img: "assets/img/portfolio/unicam.png"
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;margin-top: 30px;">
-    <img src="/assets/img/consortium/Luca_Padovani.jpg" alt="Verdiana Del Rosso" style="width: 400px;">
-    <div>
-        <a style="font-weight: bold; text-decoration: black">Verdiana Del Rosso</a> is an...
-    </div>
-</div>
+
