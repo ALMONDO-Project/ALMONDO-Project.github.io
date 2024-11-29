@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report on Survey Experiment about Social Media Influence on Climate Change Beliefs
+title: Report on Survey Experiment
 tags: [Page]
 categories: Publications
 ---

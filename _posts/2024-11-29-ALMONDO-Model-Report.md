@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report on Opinions Dynamics Model for Climate Change Lobbying
+title: Report on Climate Lobbying Model
 tags: [Page]
 categories: Publications
 ---
