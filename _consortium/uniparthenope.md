@@ -20,12 +20,6 @@ img: "assets/img/portfolio/uniparthenope.png"
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
-    <img src="/assets/img/consortium/Capurro-img.jpg" alt="Rosita Capurro" style="width: 400px; height: auto;">
-    <div>
-        <a style="font-weight: bold; text-decoration: black">Rosita Capurro</a> is Assistant Professor in Strategy and Business Administration at the Department of Business and Economics of the University of Naples “Parthenope”.  She holds a PhD in “Governance, Management and Economics” from the University of Naples “Parthenope”, Italy. She is a member of SIDREA (Italian Association of Professors in Accounting and Management), AIDEA (Italian Academy of Management) and SISR (Italian Association of Accounting History). Her research focused on innovation and strategic management, corporate social responsibility and green management, smart technologies and digitalization processes.
-    </div>
-</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Errichiello-img.jpg" alt="Grazia Errichiello" style="width: 400px; height: auto;">
@@ -34,4 +28,11 @@ img: "assets/img/portfolio/uniparthenope.png"
     </div>  
 </div>
 
-  
+## Previous collaborators
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
+    <img src="/assets/img/consortium/Capurro-img.jpg" alt="Rosita Capurro" style="width: 400px; height: auto;">
+    <div>
+        <a style="font-weight: bold; text-decoration: black">Rosita Capurro</a> is Assistant Professor in Strategy and Business Administration at the Department of Business and Economics of the University of Naples “Parthenope”.  She holds a PhD in “Governance, Management and Economics” from the University of Naples “Parthenope”, Italy. She is a member of SIDREA (Italian Association of Professors in Accounting and Management), AIDEA (Italian Academy of Management) and SISR (Italian Association of Accounting History). Her research focused on innovation and strategic management, corporate social responsibility and green management, smart technologies and digitalization processes.
+    </div>
+</div>
