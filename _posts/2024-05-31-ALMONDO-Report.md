@@ -5,7 +5,7 @@ tags: [Page]
 categories: Publications
 ---
 
-**Project Milestone 1** - The Report on Climate Lobbying and Opinions is now available to be downloaded.
+**Project Milestone 1 📃** - The Report on Climate Lobbying and Opinions is now available to be downloaded.
  
 
 

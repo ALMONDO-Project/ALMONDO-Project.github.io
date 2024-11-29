@@ -5,7 +5,7 @@ tags: [Page]
 categories: Publications
 ---
 
-**Project Milestone 2** - The Report on Opinions Dynamics Model for Climate Change Lobbying is now available to be downloaded.
+**Project Milestone 2 📃** - The Report on Opinions Dynamics Model for Climate Change Lobbying is now available to be downloaded.
  
 
 
