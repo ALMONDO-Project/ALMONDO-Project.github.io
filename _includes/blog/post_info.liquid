@@ -1,6 +1,29 @@
 {% assign author = site.data.authors[include.author] %}
 {% assign date = include.date | default: "today" | date: site.data.language.str_date_format | default: '%B %-d, %Y' %}
 
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="{{ page.title | default: 'Default Page Title' }}">
+<meta property="og:description" content="{{ page.excerpt | default: 'Default description for the page.' }}">
+<meta property="og:image" content="{{ page.image | default: site.data.default_og_image | relative_url }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="article">
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: 'Default Page Title' }}">
+<meta name="twitter:description" content="{{ page.excerpt | default: 'Default description for the page.' }}">
+<meta name="twitter:image" content="{{ page.image | default: site.data.default_og_image | relative_url }}">
+
+<!-- Additional Meta Tags for LinkedIn -->
+<meta name="linkedin:title" content="{{ page.title | default: 'Default Page Title' }}">
+<meta name="linkedin:description" content="{{ page.excerpt | default: 'Default description for the page.' }}">
+<meta name="linkedin:image" content="{{ page.image | default: site.data.default_og_image | relative_url }}">
+
+<!-- Additional Meta Tags for Reddit -->
+<meta name="reddit:title" content="{{ page.title | default: 'Default Page Title' }}">
+<meta name="reddit:description" content="{{ page.excerpt | default: 'Default description for the page.' }}">
+<meta name="reddit:image" content="{{ page.image | default: site.data.default_og_image | relative_url }}">
+
 <div class="post-info">
   {%- if author.url -%}<a href="{{ author.url | relative_url }}" target="_blank" rel="noopener">{%- endif -%}
     {% if author.avatar  %}
