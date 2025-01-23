@@ -6,11 +6,12 @@ feed:
 # For the share button options at the bottom of the articles
 share:
   email: 
-  facebook: 
-  linkedin: 
+  facebook: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+  linkedin: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   pinterest: 
   pocket:
-  reddit: 
+  reddit: "https://www.reddit.com/submit?url=URL&title=TITLE"
   tumblr: 
-  twitter: 
+  twitter: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
   wordpress:
+  telegram: "https://t.me/share/url?url=URL&text=TITLE"
