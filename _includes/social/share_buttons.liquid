@@ -16,7 +16,7 @@
         <li class="meta">Share</li>
         {% if site.data.social.share.facebook or site.theme_settings.share_buttons.facebook %}
         <li>
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ ppage.url | absolute_url }}" target="_blank"
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"
                title="{{ site.data.social.language.str_share_on }} Facebook">
                 <i class="fab fa-facebook-square fa-2x" aria-hidden="true"></i>
                 <span class="sr-only">{{ site.data.social.language.str_share_on | default: "Share on" }} Facebook</span>
