@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://github.com/ALMONDO-Project"
+url: "https://almondo-project.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: ALMONDO                                          # site's title
