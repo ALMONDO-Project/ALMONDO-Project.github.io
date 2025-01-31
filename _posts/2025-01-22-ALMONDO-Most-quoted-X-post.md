@@ -5,8 +5,8 @@ tags: [Page]
 categories: Post-petition-survey
 ---
 
-📣 We are thrilled to share the most cited post of X (before Twitter) from the survey experiment! 🔝 The results of the experiment led the P.I. to sign a petition 📝 about the climate change on <a href="https://www.change.org">change.org</a>. 🌍
-Click on the news to find out both of them! 🔍
+📣 We are thrilled to share the most cited post of X (before Twitter) from the survey experiment! 🔝 The results of the experiment led the P.I. to sign a petition 📝 about the climate change on https://www.change.org. 🌍 Click on the news to find out both of them! 🔍
+
 
 
 

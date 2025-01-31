@@ -6,7 +6,7 @@ categories: Publications
 ---
 
 **Project Milestone 2 📃** - The Report on Survey Experiment about social media influence on climate change beliefs is now available to be downloaded.
- 
+
 
 
 
