@@ -9,7 +9,7 @@ img: "assets/img/portfolio/unicam.png"
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; margin-top: 60px;">
     <img src="/assets/img/consortium/Fabrizio.jpeg" alt="Fabrizio Fornari" style="width: 400px;">
     <div>
-        <a style="font-weight: bold; text-decoration: black">Fabrizio Fornari</a> is a Research Fellow (RTD-A) in Computer Science at the University of Camerino, Italy, since 2022. 
+        <a style="font-weight: bold; text-decoration: black">Fabrizio Fornari</a> is a Assistant Professor in Computer Science at the University of Camerino, Italy, since 2025. 
         Since 2017, he is member of the PROcesses and Services Laboratory (PROS Lab) within he conducts his research activities. His research interests and teaching activities revolve around a mix of topics ranging from Formal Methods, Business Process Management, Software Engineering, Internet of Things, Digital Twins, to Applied Game Design.
     </div>
 </div>
