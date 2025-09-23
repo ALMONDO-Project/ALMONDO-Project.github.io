@@ -3,6 +3,9 @@ layout: post
 title: Report on Survey Experiment
 tags: [Page]
 categories: Publications
+subcategory: "Project Reports"
+date: 2024-11-29
+excerpt: "The report presents the findings of a survey conducted to explore how social media content influences public beliefs and engagement with climate change issues."
 ---
 
 **Project Milestone 2 📃** - The Report on Survey Experiment about social media influence on climate change beliefs is now available to be downloaded.

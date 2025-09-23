@@ -3,6 +3,11 @@ layout: post
 title: Published a Preprint Article on the Lobbying Opinion Dynamics Model
 tags: [Page]
 categories: Publications
+subcategory: "Scientific Articles"
+article_title: "Navigating the Lobbying Landscape: Insights from Opinion Dynamics Models"
+journal: "Pre-print ArXiv"
+date: 2025-07-22
+excerpt: "The work introduces a new model of opinion dynamics with behavioural bias where lobbyists can implement complex strategies using a finite budget."
 ---
 
 **Preprint article 📃** - We are glad to announce that the **preprint version of our article**, titled ***"Navigating the Lobbying Landscape: Insights from Opinion Dynamics Models"***, is now published and available on **ArXiv**! 🎉 Read the news for further details. 🔎

@@ -3,6 +3,9 @@ layout: post
 title: Report on Climate Lobbying Model
 tags: [Page]
 categories: Publications
+subcategory: "Project Reports"
+date: 2024-11-29
+excerpt: "This report presents the development and insights of a novel opinion dynamics model with the integration of lobbyong activity and the human behavioural biases."
 ---
 
 **Project Milestone 2 📃** - The Report on Opinions Dynamics Model for Climate Change Lobbying is now available to be downloaded.

@@ -3,6 +3,11 @@ layout: post
 title: Published Article on Climate Lobbying in Italy
 tags: [Page]
 categories: Publications
+subcategory: "Scientific Articles"
+article_title: "Composition and Determinants of Corporate Climate Lobbying: Evidence From Italy"
+journal: "Corporate Social Responsibility and Environmental Management"
+date: 2025-09-16
+excerpt: "This paper maps who lobbies on climate in Italy, how much they spend, and what drives participation in EU climate policy meetings."
 ---
 
 **Open access article 📃** - We are glad to announce that the **our new article**, titled ***"Composition and Determinants of Corporate Climate Lobbying: Evidence From Italy"*** (open access), is now published and available in **Corporate Social Responsibility and Environmental Management** by Wiley! 🎉  We thank to and congratulate the authors: Lilit Popoyan, Grazia Errichiello, Mariangela Bonasia, and Pasquale Marcello Falcone. 👏  Read the news for further details about the article. 🔎

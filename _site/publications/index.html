@@ -6,42 +6,256 @@
 -->
 <html lang="en">
   
-  <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5"> <!-- Theme Mode--> <script> const darkBtn = "Dark"; const lightBtn = "Light"; const isAutoTheme = true; const preferredTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; if (isAutoTheme) { document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme') ?? preferredTheme); } else { document.documentElement.setAttribute('data-theme', "auto"); } </script> <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)--> <script defer src="/assets/js/main.min.js"></script> <!-- CSS --> <link rel="stylesheet" href="/assets/css/main.css"> <!--Favicon--> <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"> <!-- KaTeX 0.16.9 --> <script defer src="/assets/js/vendor/katex.min.js"></script> <script defer src="/assets/js/vendor/katex.auto-render.min.js" onload="renderMathInElement(document.body);"></script> <!-- Mermaid 10.6.1 --> <script defer src="/assets/js/vendor/mermaid.min.js" onload="mermaid.initialize({ startOnLoad:true, theme: 'default', });"></script> <!-- Simple Jekyll Search 1.10.0 --> <script src="/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script> <!-- Google Analytics / Cookie Consent --> <script> const cookieName = 'cookie-notice-dismissed-http://localhost:4000'; const isCookieConsent = 'false'; const analyticsName = ''; const analyticsNameGA4 = ''; </script> <!-- seo tags --> <meta property="og:image" content="http://localhost:4000/assets/img/pexels/book-glass.jpeg"> <meta property="og:type" content="website" /> <!-- Begin Jekyll SEO tag v2.8.0 --> <title>Publications | ALMONDO</title> <meta name="generator" content="Jekyll v4.3.3" /> <meta property="og:title" content="Publications" /> <meta property="og:locale" content="en_US" /> <meta name="description" content="Website of the Analyzing climate Lobbying with a simulation Model based ON Dynamic Opinions (ALMONDO) PRIN Project" /> <meta property="og:description" content="Website of the Analyzing climate Lobbying with a simulation Model based ON Dynamic Opinions (ALMONDO) PRIN Project" /> <link rel="canonical" href="http://localhost:4000/publications/" /> <meta property="og:url" content="http://localhost:4000/publications/" /> <meta property="og:site_name" content="ALMONDO" /> <meta property="og:type" content="website" /> <meta name="twitter:card" content="summary" /> <meta property="twitter:title" content="Publications" /> <script type="application/ld+json"> {"@context":"https://schema.org","@type":"WebPage","description":"Website of the Analyzing climate Lobbying with a simulation Model based ON Dynamic Opinions (ALMONDO) PRIN Project","headline":"Publications","url":"http://localhost:4000/publications/"}</script> <!-- End Jekyll SEO tag --> <!-- RSS --> <link rel="alternate" type="application/atom+xml" title="ALMONDO" href="http://localhost:4000/feed.xml"/> <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="ALMONDO" /> <!-- Twitter Cards --> <meta name="twitter:title" content="Publications"> <meta name="twitter:description" content="{% assign count = 1 %}{% for post in site.posts %}{% if post.categories contains "Publications" %}{{ count }}. {{ post.title }}{% assign count = count | plus..."> <meta name="twitter:card" content="summary"> <meta name="twitter:image" content="http://localhost:4000/assets/img/pexels/book-glass.jpeg"> <meta name="twitter:image:alt" content="Publications"> </head>
+  <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5"> <!-- Theme Mode--> <script> const darkBtn = "Dark"; const lightBtn = "Light"; const isAutoTheme = true; const preferredTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; if (isAutoTheme) { document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme') ?? preferredTheme); } else { document.documentElement.setAttribute('data-theme', "auto"); } </script> <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)--> <script defer src="/assets/js/main.min.js"></script> <!-- CSS --> <link rel="stylesheet" href="/assets/css/main.css"> <!--Favicon--> <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"> <!-- KaTeX 0.16.9 --> <script defer src="/assets/js/vendor/katex.min.js"></script> <script defer src="/assets/js/vendor/katex.auto-render.min.js" onload="renderMathInElement(document.body);"></script> <!-- Mermaid 10.6.1 --> <script defer src="/assets/js/vendor/mermaid.min.js" onload="mermaid.initialize({ startOnLoad:true, theme: 'default', });"></script> <!-- Simple Jekyll Search 1.10.0 --> <script src="/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script> <!-- Google Analytics / Cookie Consent --> <script> const cookieName = 'cookie-notice-dismissed-http://localhost:4000'; const isCookieConsent = 'false'; const analyticsName = ''; const analyticsNameGA4 = ''; </script> <!-- seo tags --> <meta property="og:image" content="http://localhost:4000/assets/img/pexels/book-glass.jpeg"> <meta property="og:type" content="website" /> <!-- Begin Jekyll SEO tag v2.8.0 --> <title>Outcomes | ALMONDO</title> <meta name="generator" content="Jekyll v4.3.3" /> <meta property="og:title" content="Outcomes" /> <meta property="og:locale" content="en_US" /> <meta name="description" content="Website of the Analyzing climate Lobbying with a simulation Model based ON Dynamic Opinions (ALMONDO) PRIN Project" /> <meta property="og:description" content="Website of the Analyzing climate Lobbying with a simulation Model based ON Dynamic Opinions (ALMONDO) PRIN Project" /> <link rel="canonical" href="http://localhost:4000/publications/" /> <meta property="og:url" content="http://localhost:4000/publications/" /> <meta property="og:site_name" content="ALMONDO" /> <meta property="og:type" content="website" /> <meta name="twitter:card" content="summary" /> <meta property="twitter:title" content="Outcomes" /> <script type="application/ld+json"> {"@context":"https://schema.org","@type":"WebPage","description":"Website of the Analyzing climate Lobbying with a simulation Model based ON Dynamic Opinions (ALMONDO) PRIN Project","headline":"Outcomes","url":"http://localhost:4000/publications/"}</script> <!-- End Jekyll SEO tag --> <!-- RSS --> <link rel="alternate" type="application/atom+xml" title="ALMONDO" href="http://localhost:4000/feed.xml"/> <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="ALMONDO" /> <!-- Twitter Cards --> <meta name="twitter:title" content="Outcomes"> <meta name="twitter:description" content=" 📊 Project Reports Comprehensive reports documenting project outcomes, methodologies, and findings. {% assign report_count = 1 %} {% assign has_r..."> <meta name="twitter:card" content="summary"> <meta name="twitter:image" content="http://localhost:4000/assets/img/pexels/book-glass.jpeg"> <meta name="twitter:image:alt" content="Outcomes"> </head>
   <body>
     
-    <header class="site-header"> <!-- Logo and title --> <div class="branding"> <a href="/"> <img alt="logo img" class="avatar" src="/assets/img/almondo.png" loading="lazy"/> </a> <a class="site-title" aria-label="ALMONDO" href="/"> ALMONDO </a> </div> <div class="centered"> <a href="https://european-union.europa.eu/"> <img alt="logo img" class="logo" src="/assets/img/fundedby/Unioneeuropea.png" loading="lazy"/> </a> <a href="https://www.mur.gov.it/"> <img alt="logo img" class="logo" src="/assets/img/fundedby/UniversitaRicerca.jpg" loading="lazy"/> </a> <a href="https://www.italiadomani.gov.it/"> <img alt="logo img" class="logo" src="/assets/img/fundedby/italiadomani.jpg" loading="lazy"/> </a> </div> <!-- Toggle menu --> <nav class="clear"> <a aria-label="pull" id="pull" class="toggle" href="#"> <i class="fas fa-bars fa-lg"></i> </a> <!-- Menu --> <ul class="hide"> <li class="separator"> | </li> <li> <a class="clear" aria-label="Project" title="Project" href="/project/"> <span class="navbar-label ">Project</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Consortium" title="Consortium" href="/consortium/"> <span class="navbar-label ">Consortium</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Collaborators" title="Collaborators" href="/external/"> <span class="navbar-label ">Collaborators</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Publications" title="Publications" href="/publications/"> <span class="navbar-label ">Publications</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Search" title="Search" href="/search/"> <i class="navbar-icon fas fa-search" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Search</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Tags" title="Tags" href="/tags/"> <i class="navbar-icon fas fa-tags" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Tags</span> </a> </li> <li class="separator"> | </li> <li><a id="theme-toggle" title="Publications " aria-label="Publications" onclick="themeToggle()"></a></li> </ul> </nav> </header>
+    <header class="site-header"> <!-- Logo and title --> <div class="branding"> <a href="/"> <img alt="logo img" class="avatar" src="/assets/img/almondo.png" loading="lazy"/> </a> <a class="site-title" aria-label="ALMONDO" href="/"> ALMONDO </a> </div> <div class="centered"> <a href="https://european-union.europa.eu/"> <img alt="logo img" class="logo" src="/assets/img/fundedby/Unioneeuropea.png" loading="lazy"/> </a> <a href="https://www.mur.gov.it/"> <img alt="logo img" class="logo" src="/assets/img/fundedby/UniversitaRicerca.jpg" loading="lazy"/> </a> <a href="https://www.italiadomani.gov.it/"> <img alt="logo img" class="logo" src="/assets/img/fundedby/italiadomani.jpg" loading="lazy"/> </a> </div> <!-- Toggle menu --> <nav class="clear"> <a aria-label="pull" id="pull" class="toggle" href="#"> <i class="fas fa-bars fa-lg"></i> </a> <!-- Menu --> <ul class="hide"> <li class="separator"> | </li> <li> <a class="clear" aria-label="Project" title="Project" href="/project/"> <span class="navbar-label ">Project</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Consortium" title="Consortium" href="/consortium/"> <span class="navbar-label ">Consortium</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Collaborators" title="Collaborators" href="/external/"> <span class="navbar-label ">Collaborators</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Outcomes" title="Outcomes" href="/publications/"> <span class="navbar-label ">Outcomes</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Search" title="Search" href="/search/"> <i class="navbar-icon fas fa-search" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Search</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Tags" title="Tags" href="/tags/"> <i class="navbar-icon fas fa-tags" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Tags</span> </a> </li> <li class="separator"> | </li> <li><a id="theme-toggle" title="Outcomes " aria-label="Outcomes" onclick="themeToggle()"></a></li> </ul> </nav> </header>
     <div class="content">
       <article class="feature-image">
     <header id="main" style="background-image: url('/assets/img/pexels/book-glass.jpeg')">
         <div class="title-padder">
             
-                <h1 id="Publications" class="title"> Publications</h1>
+                <h1 id="Outcomes" class="title"> Outcomes</h1>
                 
             
         </div>
     </header>
     <section class="post-content">
     
-            
-<div class="publication" style="border-left: 4px solid #98cbcf; padding-left: 10px; margin-bottom: 10px;">
-<h3>1. <a href="/publications/2025/09/16/ALMONDO-Climate_Lobbying-Italy-article.html">Published Article on Climate Lobbying in Italy</a></h3>
+            <!-- Project Reports Section -->
+<div class="category-section">
+  <h2 class="category-title">📊 Project Reports</h2>
+  <div class="category-description">
+    <p>Comprehensive reports documenting project outcomes, methodologies, and findings.</p>
+  </div>
+  
+  
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      
+      <div class="publication report" style="border-left: 4px solid #e74c3c; padding: 15px; margin-bottom: 15px; background-color: #fdf2f2; border-radius: 5px;">
+        <h3 class="publication-title">1. <a href="/publications/2024/11/29/ALMONDO-Survey-Report.html" style="color: #c0392b; text-decoration: none;">Report on Survey Experiment</a></h3>
+        
+          <p class="publication-excerpt" style="color: #7f8c8d; font-size: 0.9em; margin-top: 8px;">The report presents the findings of a survey conducted to explore how social media content influences public beliefs and engagement with climate change issues.</p>
+        
+        
+          <span class="publication-date" style="color: #95a5a6; font-size: 0.8em;">November 2024</span>
+        
+      </div>
+      
+    
+  
+    
+      
+      <div class="publication report" style="border-left: 4px solid #e74c3c; padding: 15px; margin-bottom: 15px; background-color: #fdf2f2; border-radius: 5px;">
+        <h3 class="publication-title">2. <a href="/publications/2024/11/29/ALMONDO-Model-Report.html" style="color: #c0392b; text-decoration: none;">Report on Climate Lobbying Model</a></h3>
+        
+          <p class="publication-excerpt" style="color: #7f8c8d; font-size: 0.9em; margin-top: 8px;">This report presents the development and insights of a novel opinion dynamics model with the integration of lobbyong activity and the human behavioural biases.</p>
+        
+        
+          <span class="publication-date" style="color: #95a5a6; font-size: 0.8em;">November 2024</span>
+        
+      </div>
+      
+    
+  
+    
+      
+      <div class="publication report" style="border-left: 4px solid #e74c3c; padding: 15px; margin-bottom: 15px; background-color: #fdf2f2; border-radius: 5px;">
+        <h3 class="publication-title">3. <a href="/publications/2024/05/31/ALMONDO-Report.html" style="color: #c0392b; text-decoration: none;">Report on Climate Lobbying and Opinions</a></h3>
+        
+          <p class="publication-excerpt" style="color: #7f8c8d; font-size: 0.9em; margin-top: 8px;">The report contains a detailed data analysis related to climate lobbying and the public debate on climate issues.</p>
+        
+        
+          <span class="publication-date" style="color: #95a5a6; font-size: 0.8em;">May 2024</span>
+        
+      </div>
+      
+    
+  
+    
+  
+    
+  
+  
+  
 </div>
 
-<div class="publication" style="border-left: 4px solid #98cbcf; padding-left: 10px; margin-bottom: 10px;">
-<h3>2. <a href="/publications/2025/07/22/ALMONDO-Model-preprint-article.html">Published a Preprint Article on the Lobbying Opinion Dynamics Model</a></h3>
+<!-- Scientific Articles Section -->
+<div class="category-section" style="margin-top: 40px;">
+  <h2 class="category-title">📝 Scientific Articles</h2>
+  <div class="category-description">
+    <p>Peer-reviewed publications and research articles in academic journals and conferences.</p>
+  </div>
+  
+  
+  
+  
+    
+  
+    
+      
+      <div class="publication article" style="border-left: 4px solid #3498db; padding: 15px; margin-bottom: 15px; background-color: #f8fbfc; border-radius: 5px;">
+        <h3 class="publication-title">1. <a href="/publications/2025/09/16/ALMONDO-Climate_Lobbying-Italy-article.html" style="color: #2980b9; text-decoration: none;">Published Article on Climate Lobbying in Italy</a></h3>
+        
+          <p class="article-title" style="color: #2c3e50; font-weight: 600; margin-top: 8px; font-size: 1.05em;">"Composition and Determinants of Corporate Climate Lobbying: Evidence From Italy"</p>
+        
+        
+          <p class="publication-journal" style="color: #34495e; font-weight: 500; margin-top: 5px;"><em>Corporate Social Responsibility and Environmental Management</em></p>
+        
+        
+          <p class="publication-excerpt" style="color: #7f8c8d; font-size: 0.9em; margin-top: 8px;">This paper maps who lobbies on climate in Italy, how much they spend, and what drives participation in EU climate policy meetings.</p>
+        
+        
+          <span class="publication-date" style="color: #95a5a6; font-size: 0.8em;">September 2025</span>
+        
+      </div>
+      
+    
+  
+    
+      
+      <div class="publication article" style="border-left: 4px solid #3498db; padding: 15px; margin-bottom: 15px; background-color: #f8fbfc; border-radius: 5px;">
+        <h3 class="publication-title">2. <a href="/publications/2025/07/22/ALMONDO-Model-preprint-article.html" style="color: #2980b9; text-decoration: none;">Published a Preprint Article on the Lobbying Opinion Dynamics Model</a></h3>
+        
+          <p class="article-title" style="color: #2c3e50; font-weight: 600; margin-top: 8px; font-size: 1.05em;">"Navigating the Lobbying Landscape: Insights from Opinion Dynamics Models"</p>
+        
+        
+          <p class="publication-journal" style="color: #34495e; font-weight: 500; margin-top: 5px;"><em>Pre-print ArXiv</em></p>
+        
+        
+          <p class="publication-excerpt" style="color: #7f8c8d; font-size: 0.9em; margin-top: 8px;">The work introduces a new model of opinion dynamics with behavioural bias where lobbyists can implement complex strategies using a finite budget.</p>
+        
+        
+          <span class="publication-date" style="color: #95a5a6; font-size: 0.8em;">July 2025</span>
+        
+      </div>
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  
+  
 </div>
 
-<div class="publication" style="border-left: 4px solid #98cbcf; padding-left: 10px; margin-bottom: 10px;">
-<h3>3. <a href="/publications/2024/11/29/ALMONDO-Survey-Report.html">Report on Survey Experiment</a></h3>
+<!-- Source Code Section -->
+<div class="category-section" style="margin-top: 40px;">
+  <h2 class="category-title">💻 Source Code</h2>
+  <div class="category-description">
+    <p>Open-source code repositories, software tools, and technical implementations.</p>
+  </div>
+  
+  
+  
+  
+    
+      
+      <div class="publication code" style="border-left: 4px solid #27ae60; padding: 15px; margin-bottom: 15px; background-color: #f8fffe; border-radius: 5px;">
+        <h3 class="publication-title">1. <a href="/publications/2025/09/23/ALMONDO-Model-publication.html" style="color: #229954; text-decoration: none;">Published Almondo Model code</a></h3>
+        
+          <p class="publication-github" style="margin-top: 5px;">
+            <a href="https://github.com/ALMONDO-Project/ALMONDO-Model" style="color: #2ecc71; text-decoration: none; font-size: 0.9em;">
+              🔗 View on GitHub
+            </a>
+          </p>
+        
+        
+          <span class="programming-language" style="background-color: #d5f4e6; color: #27ae60; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-top: 8px; display: inline-block;">Python</span>
+        
+        
+          <p class="publication-excerpt" style="color: #7f8c8d; font-size: 0.9em; margin-top: 8px;">Open-source library for simulate the diffusion of influence across a network with the influence of lobbyists.</p>
+        
+        
+          <span class="publication-date" style="color: #95a5a6; font-size: 0.8em;">September 2025</span>
+        
+      </div>
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  
+  
 </div>
 
-<div class="publication" style="border-left: 4px solid #98cbcf; padding-left: 10px; margin-bottom: 10px;">
-<h3>4. <a href="/publications/2024/11/29/ALMONDO-Model-Report.html">Report on Climate Lobbying Model</a></h3>
-</div>
+<style>
+.category-title {
+  color: #2c3e50;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
 
-<div class="publication" style="border-left: 4px solid #98cbcf; padding-left: 10px; margin-bottom: 10px;">
-<h3>5. <a href="/publications/2024/05/31/ALMONDO-Report.html">Report on Climate Lobbying and Opinions</a></h3>
-</div>
+.category-description {
+  margin-bottom: 25px;
+  color: #5d6d7e;
+}
+
+.publication-title a:hover {
+  text-decoration: underline !important;
+}
+
+.publication {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.publication:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+</style>
 
 
             

@@ -3,6 +3,9 @@ layout: post
 title: Report on Climate Lobbying and Opinions
 tags: [Page]
 categories: Publications
+subcategory: "Project Reports"
+date: 2024-05-31
+excerpt: "The report contains a detailed data analysis related to climate lobbying and the public debate on climate issues."
 ---
 
 **Project Milestone 1 📃** - The Report on Climate Lobbying and Opinions is now available to be downloaded.
