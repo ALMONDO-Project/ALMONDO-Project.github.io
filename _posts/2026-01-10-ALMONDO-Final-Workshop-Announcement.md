@@ -16,8 +16,7 @@ We warmly thank all speakers, chairs, and members of the Organizing Committee—
 
 📍 Venue: University of Naples “Parthenope”, Palazzo Pacanowski
 
-💻 **Online participation:** available via  
-[Webex](https://santannapisa.webex.com/santannapisa/j.php?MTID=mf20736befb37ad91a1977f302bd3e95d)
+💻 **Online participation:** available via [Webex](https://santannapisa.webex.com/santannapisa/j.php?MTID=mf20736befb37ad91a1977f302bd3e95d)
 
 We look forward to closing the ALMONDO project with a rich and engaging exchange of ideas!
 
