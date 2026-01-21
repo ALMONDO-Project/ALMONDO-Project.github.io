@@ -4,7 +4,7 @@ title: ALMONDO Final Workshop – Naples, 26 January 2026
 tags: [Page]
 categories: News
 ---
-🎓 On 26 January 2026, the ALMONDO research team will host its Final Workshop at the University of Naples “Parthenope”, marking the conclusion of the ALMONDO PNRR 2022 PRIN project. The event will bring together researchers, policymakers, and practitioners to discuss the role of data, opinion dynamics, and lobbying in shaping climate-related beliefs and policies. 🌍
+🎓 On **26 January 2026**, the ALMONDO research team will host its Final Workshop at the University of Naples “Parthenope”, marking the conclusion of the ALMONDO PNRR 2022 PRIN project. The event will bring together researchers, policymakers, and practitioners to discuss the role of data, opinion dynamics, and lobbying in shaping climate-related beliefs and policies. 🌍
 
 💡 The workshop will open with a keynote address by Antoine Mandel (University Paris 1 Panthéon-Sorbonne) on “A Hypergraph Analysis of the European Commission Lobby Network”, followed by two thematic sessions presenting core ALMONDO research results and invited contributions at the intersection of opinion dynamics, climate economics, and computational social science.
 
