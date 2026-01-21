@@ -19,3 +19,9 @@ We warmly thank all speakers, chairs, and members of the Organizing Committee—
 💻 Online participation: available via Webex
 
 We look forward to closing the ALMONDO project with a rich and engaging exchange of ideas!
+
+## 📄 Workshop Programme
+
+You can **view or download the full workshop programme** here:
+
+👉 **[Download the ALMONDO Final Workshop Programme (PDF)]({{ "/assets/documents/Programme_ALMONDO-Final.pdf" | relative_url }})**
