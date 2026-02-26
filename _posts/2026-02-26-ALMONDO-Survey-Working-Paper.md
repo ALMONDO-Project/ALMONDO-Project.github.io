@@ -13,9 +13,6 @@ excerpt: "We examine how individuals update their views on climate change when e
 
 Authors: **Daniele Giachini, Giulia Rossello and Leonardo Ciambezi**
 
-Keywords: *Beliefs Formation; Survey Experiment; Climate Change; Social Media Campaigns*  
-JEL Classifications: *D83, D82, D03, Q54*
-
 ---
 
 # 📄 Abstract
